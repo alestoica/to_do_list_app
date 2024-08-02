@@ -1,0 +1,6 @@
+rootProject.name = 'to_do_list_app'
+include 'Model'
+include 'Persistence'
+include 'RestServices'
+include 'ReactApp'
+
